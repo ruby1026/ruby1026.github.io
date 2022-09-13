@@ -1,0 +1,79 @@
+body {
+    color:#2e1c03;
+    margin:0%;
+    background-color: #9b8050;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color:#2e1c03;
+    border:solid 3px;
+    text-align: center;
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    line-height: 100px;
+}
+h2 {
+    color:#2e1c03;
+    border:solid 1px;
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.intro {
+    color:balck;
+    border: solid;
+    border-width: 0px 8px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: justify;
+    margin-top: -20px;
+}
+
+span {
+    color: rgba(65, 19, 13, 0.861);
+}
+
+.fir {
+    width: 25%;
+    display: inline-block;
+    margin-left: 10%;
+}
+
+.sec {
+    width: 35%;
+    display: inline-block;
+    margin-left: 10%;
+}
+
+ .email{
+    font-size: 30px;
+    display: block;
+    color: rgb(48, 31, 5);
+    background-color: rgb(129, 107, 91);
+    width: 20%;
+    text-align: center;
+    text-decoration: none;
+    margin-left: 40%;
+    border-radius: 5%;
+    transition-duration: 1s;
+
+ }
+ .email:hover{
+    background: black;
+    color: gold;
+    border-radius: 50%;
+ }
+
+ .email:active {
+    color: gold;
+    font-size: 50px;
+ }
